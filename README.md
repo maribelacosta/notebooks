@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Lars-H/maribelacosta/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maribelacosta/notebooks/HEAD)
 
 # Notebooks
 A collection of notebooks for various purposes.
